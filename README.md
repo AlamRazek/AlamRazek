@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that involve web development
 - 📫 How to reach me [Portfolio](https://razek.netlify.app/)
 
-- ⚡ Fun fact: ...
+
 
 <!---
 AlamRazek/AlamRazek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
