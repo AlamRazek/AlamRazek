@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new technologies, solving problems, and building innovative solutions.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that involve web development
-- 📫 How to reach me [...](https://razek.netlify.app/)
+- 📫 How to reach me [Portfolio](https://razek.netlify.app/)
 
 - ⚡ Fun fact: ...
 
